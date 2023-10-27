@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Maingate.unity
+    guid: 62a06e2e2cdf17d4cbe165d4e2547c97
+  - enabled: 1
+    path: Assets/Scenes/Day_1_Gym(out).unity
+    guid: 53ef047bbbc91b04aa9cf0e3f0aa4eb6
+  - enabled: 1
+    path: Assets/Scenes/Day_1_Gym(in).unity
+    guid: deac1d386aef0e543b053519fa3f57e7
+  - enabled: 1
+    path: Assets/Scenes/Day_1_Field.unity
+    guid: 6e8d1a4ea72fbdc419c294c3f7ee1ad5
+  - enabled: 1
+    path: Assets/Scenes/Day_2_Class.unity
+    guid: aa802975b3236214695046f288b59810
+  - enabled: 1
+    path: Assets/Scenes/Day_2_Corridor.unity
+    guid: 2257d92d3085bed4baefa6909114dd26
+  - enabled: 1
+    path: Assets/Scenes/Day_2_Corridor 1.unity
+    guid: 79736ba7c4bafec46ba48b9ec3da1467
+  - enabled: 1
+    path: Assets/Scenes/Day_2_AfterClass 2.unity
+    guid: 43c4190e8f03e0b4f9a21194ceccc537
+  - enabled: 1
+    path: Assets/Scenes/Day_2_Corridor 2.unity
+    guid: 6c4b344231f377249aec6b8b9526a930
+  - enabled: 0
+    path: Assets/Scenes/Day_2_Canteen.unity
+    guid: 10f35d1d30616404e8a6f5bfb17734b1
+  - enabled: 0
+    path: Assets/Scenes/Day_2_OtherClass.unity
+    guid: 5562ba95bb6d02345a4d3435a7d27434
+  - enabled: 1
+    path: Assets/Scenes/Day_2_AfterLunch.unity
+    guid: 137f00c042dafeb47a73cd13c0148e66
+  - enabled: 1
+    path: Assets/Scenes/True_End_Go_Home.unity
+    guid: bed89e7a9d9cd8840b04146d72abf3bd
+  - enabled: 1
+    path: Assets/Scenes/True_End_Soccer.unity
+    guid: 374cfe36e8ca2b145b010be4e97bd544
+  - enabled: 1
+    path: Assets/Scenes/True_End_Hesol.unity
+    guid: 2ee32ced46466124ba6926ffa2a2f5a7
+  - enabled: 1
+    path: Assets/Scenes/Bad_End_Hesol.unity
+    guid: b8eff9bf9979e554d80e79976abce7a2
+  - enabled: 1
+    path: Assets/Scenes/Bad_End_Go_Home.unity
+    guid: 159d12987fde31a4eb0c11f9ac1f8247
+  - enabled: 1
+    path: Assets/Scenes/Bad_End_Socccer.unity
+    guid: 7c4361bd0f2c84a4bba339f2983b6109
+  - enabled: 1
+    path: Assets/Scenes/Day_2_AfterClass.unity
+    guid: 42c2329b73e25f648a0386957e89c365
+  - enabled: 1
+    path: Assets/Scenes/Day_2_After Class 1.unity
+    guid: 535386fead807454396618322d11e516
+  - enabled: 1
+    path: Assets/Scenes/Day_1_Gym2.unity
+    guid: 565a7dcac0a99554e9fa7374abf01239
+  m_configObjects: {}
